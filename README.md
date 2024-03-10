@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://linktr.ee/dafuqgrahito">Daffa</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://linktr.ee/daffagrahito">Daffa</a> 👋</h1>
 
 <h3 align="center">These are languages and frameworks i have used before:</h3>
 
