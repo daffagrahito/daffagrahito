@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm <a href="https://linktr.ee/dafuqgrahito">Daffa</a> 👋</h1>
 
-<h2>I'm currently studying as an Undergraduate Computer Science Student in University of Indonesia</h2>
+<h2 align="center">I'm currently studying as an Undergraduate Computer Science Student in University of Indonesia</h2>
 
-<h3>These are languages and frameworks i have used before:</h3>
+<h3 align="center">These are languages and frameworks i have used before:</h3>
+
 ###
 
 <div align="center">
