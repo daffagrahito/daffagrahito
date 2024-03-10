@@ -1,5 +1,8 @@
 <h1 align="center">Hi there, I'm <a href="https://linktr.ee/dafuqgrahito">Daffa</a> 👋</h1>
 
+<h2>I'm currently studying as an Undergraduate Computer Science Student in University of Indonesia</h2>
+
+<h3>These are languages and frameworks i have used before:</h3>
 ###
 
 <div align="center">
@@ -12,6 +15,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
