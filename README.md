@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Daffa Grahito 👋</h1>
-<h3 align="left">Currently an Undergraduate Computer Science Student at University of Indonesia</h3>
+<h3 align="center">I'm Currently an Undergraduate Computer Science Student at University of Indonesia</h3>
 
 ###
 
