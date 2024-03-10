@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Daffa](https://linktr.ee/dafuqgrahito) 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://linktr.ee/dafuqgrahito">Daffa</a> 👋</h1>
 
 ###
 
