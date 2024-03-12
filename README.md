@@ -31,6 +31,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daffagrahito&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=daffagrahito&theme=dracula&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+</div>
+
 ###
 
 <img src="https://raw.githubusercontent.com/daffagrahito/daffagrahito/output/snake.svg" alt="Snake animation" />
